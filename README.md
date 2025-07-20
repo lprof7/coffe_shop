@@ -1,7 +1,7 @@
 # ☕️ Coffee Shop App
 
 A modern Flutter coffee shop application with beautiful UI and user-friendly features.
-
+![ Application ](images/coffe_shop.png)
 ---
 
 ## 🚀 Features
